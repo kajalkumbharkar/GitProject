@@ -2,7 +2,7 @@ version is snapshot of artifacts related to project at given point of time.
 
 deployment phase{sdlc} :deployed at client is production environment.
 
-DevOps
+DevOps 
 
 git is a distributed version control system
 centralized cvs, apache subversion
