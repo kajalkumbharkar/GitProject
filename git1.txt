@@ -1,0 +1,14 @@
+version is snapshot of artifacts related to project at given point of time.
+
+deployment phase{sdlc} :deployed at client is production environment.
+
+DevOps
+
+git is a distributed version control system
+centralized cvs, apache subversion
+
+github is cloud based and gitlab is intranet (within organization)
+check summed means commit(encrypted using SHA)
+staging area is cache area. its also act like checkpoint. overhead
+
+remote server - github , gitlab, bigbucket
