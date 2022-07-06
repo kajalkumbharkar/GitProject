@@ -12,3 +12,4 @@ check summed means commit(encrypted using SHA)
 staging area is cache area. its also act like checkpoint. overhead
 
 remote server - github , gitlab, bigbucket
+Remote Origin master is set up
